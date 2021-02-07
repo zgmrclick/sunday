@@ -1,0 +1,12 @@
+/Users/zg.mrclick/Projects/Loop/Loop/bin/Debug/netcoreapp3.1/Loop.deps.json
+/Users/zg.mrclick/Projects/Loop/Loop/bin/Debug/netcoreapp3.1/Loop.runtimeconfig.json
+/Users/zg.mrclick/Projects/Loop/Loop/bin/Debug/netcoreapp3.1/Loop.runtimeconfig.dev.json
+/Users/zg.mrclick/Projects/Loop/Loop/bin/Debug/netcoreapp3.1/Loop.dll
+/Users/zg.mrclick/Projects/Loop/Loop/bin/Debug/netcoreapp3.1/Loop.pdb
+/Users/zg.mrclick/Projects/Loop/Loop/obj/Debug/netcoreapp3.1/Loop.csprojAssemblyReference.cache
+/Users/zg.mrclick/Projects/Loop/Loop/obj/Debug/netcoreapp3.1/Loop.AssemblyInfoInputs.cache
+/Users/zg.mrclick/Projects/Loop/Loop/obj/Debug/netcoreapp3.1/Loop.AssemblyInfo.cs
+/Users/zg.mrclick/Projects/Loop/Loop/obj/Debug/netcoreapp3.1/Loop.csproj.CoreCompileInputs.cache
+/Users/zg.mrclick/Projects/Loop/Loop/obj/Debug/netcoreapp3.1/Loop.dll
+/Users/zg.mrclick/Projects/Loop/Loop/obj/Debug/netcoreapp3.1/Loop.pdb
+/Users/zg.mrclick/Projects/Loop/Loop/obj/Debug/netcoreapp3.1/Loop.genruntimeconfig.cache
